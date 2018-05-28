@@ -2,6 +2,7 @@
 
 Now that we learned about locals, let's refactor our old codebase and add a couple new features using this new tool.
 
+
 ## Objectives
 
 1. Use the `locals` keyword
